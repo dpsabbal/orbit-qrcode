@@ -1,0 +1,12 @@
+{
+  "name": "orbit-bill-scanner",
+  "version": "1.0.0",
+  "description": "Orbit Bill Scanner PWA - QR based bill entry",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
